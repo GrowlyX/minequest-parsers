@@ -18,7 +18,7 @@ dependencies {
 }
 
 application {
-    mainClassName "gg.minequest.model.parser.Parser1Kt"
+    mainClassName "gg.minequest.model.parser.ParserKt"
 }
 
 compileKotlin {
