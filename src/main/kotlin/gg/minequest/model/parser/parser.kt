@@ -64,7 +64,7 @@ fun main(args: Array<String>)
                                 -8.2, -4.5, -4
                             ),
                             "scale" to listOf(
-                                0.9, 0.9, 0.9
+                                1, 1, 1
                             )
                         )
                     )
